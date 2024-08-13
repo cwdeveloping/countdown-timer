@@ -1,1 +1,1 @@
-https://cwdeveloping.github.io/countdown-timer/
+https://cwdeveloping.github.io/countdown-timer/index.html
